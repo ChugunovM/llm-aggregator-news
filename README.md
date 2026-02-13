@@ -24,7 +24,7 @@
 1. Клонируй репозиторий:
    ```bash
    git clone https://github.com/ChugunovM/llm-news-aggregator.git
-   cd llm-news-aggregator
+   cd llm-aggregator-news
    ```
 
 2. Установи зависимости:
